@@ -2,7 +2,7 @@
 # 작 성 자 : 다현
 
 bucket_list={}
-temp = "";
+temp = ""
 
 bucket_list.append(input("맛집 리스트 입력:"))
 
